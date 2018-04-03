@@ -1,0 +1,180 @@
+{
+  "clients": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "mademoiselle",
+        "first": "garance",
+        "last": "joly"
+      },
+      "location": {
+        "street": "9515 rue desaix",
+        "city": "mézières vd",
+        "state": "zürich",
+        "postcode": 3053
+      },
+      "email": "garance.joly@example.com",
+      "login": {
+        "username": "lazymouse778",
+        "password": "terrapin",
+        "salt": "hDGc6ik7",
+        "md5": "2c3b7d2aa2b370253f455547b0b924c8",
+        "sha1": "b147cb300fd5a2260e0ef7502bb9827c1f892c57",
+        "sha256": "48a66af97c9a100aa0a86bc6773838b20a57de7e4ba6bfdfb929bf41c34e7d6b"
+      },
+      "dob": "1967-02-10 13:43:53",
+      "registered": "2011-11-15 22:41:22",
+      "phone": "(688)-751-4471",
+      "cell": "(943)-249-9117",
+      "id": "1",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/51.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/51.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/51.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "christian",
+        "last": "lenz"
+      },
+      "location": {
+        "street": "7904 römerstraße",
+        "city": "coburg",
+        "state": "niedersachsen",
+        "postcode": 15904
+      },
+      "email": "christian.lenz@example.com",
+      "login": {
+        "username": "lazycat737",
+        "password": "womam",
+        "salt": "bt6xvdDv",
+        "md5": "d5bdd54b1dee88b31c2f33f1d12ebe44",
+        "sha1": "87b666ae99013289d6b693c95f5cb3b57c0322ec",
+        "sha256": "f9f030dbf2ce1a6c47c446a051e6ece20134f36efae84989fa4d0147bc2d2444"
+      },
+      "dob": "1979-05-27 15:27:53",
+      "registered": "2012-06-26 19:36:27",
+      "phone": "0085-9612873",
+      "cell": "0170-5229874",
+      "id": "2",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/86.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+      },
+      "nat": "DE"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "mrs",
+        "first": "النا",
+        "last": "سلطانی نژاد"
+      },
+      "location": {
+        "street": "8876 ایران",
+        "city": "خوی",
+        "state": "بوشهر",
+        "postcode": 70672
+      },
+      "email": "النا.سلطانینژاد@example.com",
+      "login": {
+        "username": "whitebutterfly302",
+        "password": "seagull",
+        "salt": "wfVJo8tx",
+        "md5": "c140e8887bcde1d69c0f3f8b7159d0ad",
+        "sha1": "eba4165e7164e69dfae6d69d1013c9ea95e6431a",
+        "sha256": "12ce6177be8e5f5525399691a76e17abe7a4c73564e92ffc69a6ab71ce7689dc"
+      },
+      "dob": "1990-09-05 10:23:08",
+      "registered": "2010-02-26 06:14:07",
+      "phone": "035-01633552",
+      "cell": "0948-466-8543",
+      "id": "3",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/93.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
+      },
+      "nat": "IR"
+    },
+    {
+      "gender": "female",
+      "name": {
+        "title": "ms",
+        "first": "lauren",
+        "last": "peterson"
+      },
+      "location": {
+        "street": "2403 grove road",
+        "city": "city of london",
+        "state": "cheshire",
+        "postcode": "S63 6LY"
+      },
+      "email": "lauren.peterson@example.com",
+      "login": {
+        "username": "redbird512",
+        "password": "1michael",
+        "salt": "bw2HOCCs",
+        "md5": "491fdce751cbd6026dd260bbfe30a056",
+        "sha1": "e9510a22dc44e4803986c65f06fc7dd4df193ad1",
+        "sha256": "500f34f22122b30fb67c1c5be2a3fe479dea77585a722bd6e88ed9a11bae8368"
+      },
+      "dob": "1984-12-20 10:37:55",
+      "registered": "2008-08-01 00:33:59",
+      "phone": "021 7336 1972",
+      "cell": "0753-974-377",
+      "id": "4",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/9.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+      },
+      "nat": "GB"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "mr",
+        "first": "بردیا",
+        "last": "احمدی"
+      },
+      "location": {
+        "street": "1512 جمهوری",
+        "city": "ارومیه",
+        "state": "قزوین",
+        "postcode": 37456
+      },
+      "email": "بردیا.احمدی@example.com",
+      "login": {
+        "username": "crazydog637",
+        "password": "passat",
+        "salt": "Wf84MKSN",
+        "md5": "0791e24ffce02cabf3535e567be86670",
+        "sha1": "98c36814d442dd02056c0e48447dbf6328c68fbf",
+        "sha256": "5f4394871924fa63caeaa91e84f1bad0fb4b45310193ebc619d32d2a36b50ccf"
+      },
+      "dob": "1975-05-30 23:36:24",
+      "registered": "2009-10-14 05:39:22",
+      "phone": "022-48152844",
+      "cell": "0997-171-9347",
+      "id": "5",
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/71.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+      },
+      "nat": "IR"
+    }
+  ],
+  "info": {
+    "seed": "7412be9d2320400d",
+    "results": 10,
+    "page": 1,
+    "version": "1.1"
+  }
+}

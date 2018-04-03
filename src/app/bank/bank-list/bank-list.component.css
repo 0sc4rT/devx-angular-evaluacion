@@ -1,0 +1,13 @@
+.article-list-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.image-section img {
+    width: 70px;
+}

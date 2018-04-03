@@ -1,0 +1,18 @@
+.edit-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.edit-form {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.preview-section img {
+    max-width: 400px;
+}
+
+.form-section {
+    width: 400px;
+}
